@@ -1,5 +1,7 @@
 # Cryptography-Project
 
+## JPEG Image Compression & Encryption  
+
 ### Original Image
 <img width="388" alt="i7" src="https://user-images.githubusercontent.com/91904557/235357051-9e891de5-f427-4f6f-8b13-6392eacb9d32.png">
 
